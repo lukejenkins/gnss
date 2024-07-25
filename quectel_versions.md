@@ -3,6 +3,9 @@ Random notes about version numbers for various Quectel modules:
 
 | Module | Version | Build Date | Forum Post Date | Forum Link | Download Link | 
 |---|---|---|---|---|---|
+| LC29HBS | LC29HBSNR11A01S | | 2024/07/12 | https://forums.quectel.com/t/lc29h-da-and-bs-module-configuration-and-latest-firmware-with-documentation/27447/49 | | 
+| LC29HDA | LC29HDANR11A01S_RSA | | 2024/07/11 | https://forums.quectel.com/t/lc29h-da-and-bs-module-configuration-and-latest-firmware-with-documentation/27447/48 | | 
+| LC29HDA | Newer than LC29HDANR11A01S_RSA | | 2024/07/11 | https://forums.quectel.com/t/lc29h-da-and-bs-module-configuration-and-latest-firmware-with-documentation/27447/49 | | 
 | LC29HEA | LC29HEANR11A02S_RSA | 2023/02/07 | 2024/03/03 | https://forums.quectel.com/t/lc29h-ea-position-accuracy-pqtmepe-not-supported-how-to-read-accuracy-on-rtk-module/31913 | |
 | LC29HEA | LC29HEANR11A03S_RSA | 2023/10/31 | 2024/07/10 | https://forums.quectel.com/t/lc29hea-latest-firmware/36212/5 | |
 | L76L-M33 | L76LNR13A01S | 2023/01/10 | 2024/01/05 | https://forums.quectel.com/t/l76l-m33-firmware-update-with-i2c-enabled/30009 | |
