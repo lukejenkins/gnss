@@ -25,6 +25,7 @@ Random notes about version numbers for various Quectel modules:
 | L26-T| Newer than L26TNR01A06V02 | | 2023/05/23 | https://forums.quectel.com/t/l26-t-firmware-question/21150/2 | |
 | LC29HDA| AG335A_V2.6.0.AG3335_20230414 | 2023/04/14 | | https://forums.quectel.com/t/request-latest-firmware-of-lc29hda/34256 | |
 | L76-LB | L76LBNR03A02SC | | 2021/04/28 | https://forums.quectel.com/t/l76-lb-firmware-files-documentation/8956/2 | [Firmware](https://forums.quectel.com/uploads/short-url/gELq3RqDXYLeslWcX4AUuv9jlTL.zip) & [FlashTool](https://forums.quectel.com/uploads/short-url/mG8QZetbfOrvfipsCPkYlbh7pdp.zip) | 
+| L89HB | L89HBNR01A01S | 2023/01/10 | 2024/09/18 | https://forums.quectel.com/t/i2c-interface-l89hb-not-working/38063/8 | |
 | L89-s90 | L89HANR01A07S | | 2024/02/06 | https://forums.quectel.com/t/how-to-upgrade-l89-s90-firmware/31031 | | 
 | LC86GLA | LC86GLANR12A01S | 2023/02/10 | 2023/12/19 | https://forums.quectel.com/t/lc86gla-lastest-firmware/29551 | | 
 | L89 | L89NR01A09 | | 2023/10 | https://forums.quectel.com/t/how-to-enable-gps-galileo-irnss-on-l89-gnss-module-also-what-is-the-latest-firmware-version-for-l89-not-l89-r2-0/27564/4 | |
