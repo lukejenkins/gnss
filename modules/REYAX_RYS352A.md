@@ -37,6 +37,13 @@ The datasheet says that this module supports RTCM output, and the config guide h
 
 So in addition to the ```$PAIR382,1*2E``` & ```$PAIR003*39``` commands I explained above, the following are the commands I use to configure a REYAX RYS352A to output RTCM messages:
 
+### Enable outputting RTCM messages to UART0
+
+```$PAIR862,0,0,127*2E```
+
+#### To check configured value:
+
+```$PAIR863,0,0*37```
 
 ### Set Baudrate to 460800
 
@@ -65,7 +72,7 @@ So in addition to the ```$PAIR382,1*2E``` & ```$PAIR003*39``` commands I explain
  
 ```$PAIR432,1*22```
 
-#### To check: 
+#### To check configured value:
 
 ```$PAIR433*3E```
 
@@ -74,7 +81,7 @@ RTCM3 Message 1005
 
 ```$PAIR434,1*24```
 
-#### To check: 
+#### To check configured value:
 
 ```$PAIR435*38```
 
@@ -83,7 +90,7 @@ RTCM3 Messages 1019, 1020, 1042, 1044, 1046
 
 ```$PAIR436,1*26```
 
-#### To check: 
+#### To check configured value:
 
 ```$PAIR437*3A```
 
