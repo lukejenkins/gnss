@@ -11,7 +11,7 @@ Random notes about version numbers for various Quectel modules:
 | LC29HDA | LC29HDANR11A02S_RSA | | 2024/06/19 | https://forumschinese.quectel.com/t/topic/4337/2 | |
 | LC29HEA | LC29HEANR11A02S_RSA | 2023/02/07 | 2024/03/03 | https://forums.quectel.com/t/lc29h-ea-position-accuracy-pqtmepe-not-supported-how-to-read-accuracy-on-rtk-module/31913 | |
 | LC29HEA | LC29HEANR11A03S_RSA | 2023/10/31 | 2024/07/10 | https://forums.quectel.com/t/lc29hea-latest-firmware/36212/5 | |
-| LG290P | LG290P03AANR01A03S | 2024/05/22 | 2024/09/24 | https://forums.quectel.com/t/lg290p-the-new-gnss-module-documentation/34282/61 | |
+| LG290P | LG290P03AANR01A04S_BETA0224 | 2025/xx/xx | 2025/02/25 | https://community.sparkfun.com/t/lg290p-v04-beta-firmware-fixes-gst-issue/63419/28 | |
 | L76L-M33 | L76LNR13A01S | 2023/01/10 | 2024/01/05 | https://forums.quectel.com/t/l76l-m33-firmware-update-with-i2c-enabled/30009 | |
 | L76L-M33 | Newer than L76LNR13A01S | | 2024/01/05 | https://forums.quectel.com/t/l76l-m33-firmware-update-with-i2c-enabled/30009 | |
 | L96 | L96NR01A03S | 2018/07/30 | 2023/02/02 | https://forums.quectel.com/t/l96-firmware-update-to-enable-i2c-port/20093/4 | |
