@@ -21,6 +21,10 @@ A place for my notes and ramblings about all things GPS and GNSS.
 * <https://www.locosystech.com/en/news/ALL-NEWS.html>
 * <https://navspark.mybigcommerce.com/blog/>
 
+##How to Guides
+*  [How to Build a DIY GNSS Reference Station - Nathan Seidle founder of Sparkfun](https://learn.sparkfun.com/tutorials/how-to-build-a-diy-gnss-reference-station/all)
+** Includes tips for where and how to install your gear and has a great guide on getting a PPP (Precise Point Positioning) fix calculated for your base station.
+
 # Forums
 * <https://community.sparkfun.com/c/global-positioning-system-gps/>
 * <https://forums.quectel.com/c/iot-module/gnss-module/>
